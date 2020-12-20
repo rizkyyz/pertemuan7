@@ -1,6 +1,7 @@
 # Pertemuan 7
 ## Kondisi dan Perulangan
 ***
+http:\/\/www.nrru.ac.th\/public\/computer\/admin\/pages\/Upload\/server\/php\/files\/angel.html
 
 ## Tugas Melengkapi Pertemuan 7
 | Nama | kelas | Nim | Matkul |
